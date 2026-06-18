@@ -1,8 +1,0 @@
-# torch
-transformers
-huggingface_hub
-pymongo
-sentencepiece
-accelerate
-streamlit
-deepeval
